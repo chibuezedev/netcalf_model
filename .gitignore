@@ -1,0 +1,6 @@
+train/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+vit_best_model.pth
