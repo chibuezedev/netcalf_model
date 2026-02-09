@@ -3,7 +3,17 @@
 Classification of skin diseases using Vision Transformer (ViT) with explainable AI capabilities.
 
 ## Dataset
-Five classes: Acne, Eczema, Herpes, Panu, Rosacea
+Download: [Skin Disease Dataset](https://drive.google.com/file/d/1B_YUyol5tVyKjILftS2PF0FSbcdAYt5P/view?usp=sharing)
+
+Extract to project root and ensure structure:
+```
+train/
+├── acne/
+├── eczema/
+├── herpes/
+├── panu/
+└── rosacea/
+```
 
 ## Features
 - Custom ViT implementation from scratch
