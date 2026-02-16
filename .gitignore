@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 *.pyo
 vit_best_model.pth
+dataset/
+outputs/
